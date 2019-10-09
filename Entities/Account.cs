@@ -21,9 +21,9 @@ namespace Sobreposicao.Entities
             Holder = holder;
             Balance = balance;
         }
-        public void withdraw(double amount) //Operação Saque(WIthdraw) recebendo uma quantia(amount)
-        {
-            Balance -= amount; //Para fazer o saque fazemos o Calculo Balance(saldo)- amount(quantia)
+        public virtual void withdraw(double amount) //Operação Saque(WIthdraw) recebendo uma quantia(amount)
+        {    //→Virtual(o metodo de saque(withdraw)pode ser sobreescrito ou sobreposto nas subclasses
+            Balance -= amount + 5.0; //Para fazer o saque fazemos o Calculo Balance(saldo)- amount(quantia).Eu vou sacar a quantia mais o 5.0
 
         }
         public void Deposit(double amount) // Operação deposito

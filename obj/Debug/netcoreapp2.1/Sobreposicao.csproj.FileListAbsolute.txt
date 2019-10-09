@@ -1,0 +1,11 @@
+C:\Temp\Sobreposicao\bin\Debug\netcoreapp2.1\Sobreposicao.deps.json
+C:\Temp\Sobreposicao\bin\Debug\netcoreapp2.1\Sobreposicao.runtimeconfig.json
+C:\Temp\Sobreposicao\bin\Debug\netcoreapp2.1\Sobreposicao.runtimeconfig.dev.json
+C:\Temp\Sobreposicao\bin\Debug\netcoreapp2.1\Sobreposicao.dll
+C:\Temp\Sobreposicao\bin\Debug\netcoreapp2.1\Sobreposicao.pdb
+C:\Temp\Sobreposicao\obj\Debug\netcoreapp2.1\Sobreposicao.csprojAssemblyReference.cache
+C:\Temp\Sobreposicao\obj\Debug\netcoreapp2.1\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Temp\Sobreposicao\obj\Debug\netcoreapp2.1\Sobreposicao.AssemblyInfoInputs.cache
+C:\Temp\Sobreposicao\obj\Debug\netcoreapp2.1\Sobreposicao.AssemblyInfo.cs
+C:\Temp\Sobreposicao\obj\Debug\netcoreapp2.1\Sobreposicao.dll
+C:\Temp\Sobreposicao\obj\Debug\netcoreapp2.1\Sobreposicao.pdb
